@@ -1,0 +1,3 @@
+
+def binary_search():
+	
